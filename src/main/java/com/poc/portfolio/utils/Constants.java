@@ -22,7 +22,7 @@ public final class Constants {
   public static final String LIBRBARY_GITHUB_URL = "https://github.com/luci1113/ATS.git";
   public static final String LIBRBARY_LIVE_DEMO_URL = "https://ats-checker.algoatlas.co/";
   public static final String SECURE_FILE_UPLOAD_GITHUB_URL = "https://github.com/luci1113/Women_health.git";
-  public static final String SECURE_FILE_UPLOAD_LIVE_DEMO_URL = "https://github.com/luci1113/Women_health.git";
+  public static final String SECURE_FILE_UPLOAD_LIVE_DEMO_URL = "https://womenhealthtracker.netlify.app/";
   // public static final String GEHU_ONLINE_GITHUB_URL = "https://github.com/chandan13tiwari/GEHU_Online_Project";
   // public static final String GEHU_ONLINE_LIVE_DEMO_URL = "https://github.com/chandan13tiwari/GEHU_Online_Project";
   public static final String PROFILE_PIC_ASSET_URL = "/assets/profile_pic.png";

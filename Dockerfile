@@ -9,6 +9,6 @@ COPY . .
 RUN mvn clean install
 
 
-RUN cd target/ && cp portfolio-with-spring-0.0.1.jar /portfolio-with-spring-0.0.1.jar
+RUN cd target/ && cp portfolio-with-spring-0.0.1.jar /portfolio-with-spring-0.0.2.jar
 
-ENTRYPOINT [ "java", "-jar","portfolio-with-spring-0.0.1.jar" ]
+ENTRYPOINT [ "java", "-jar","portfolio-with-spring-0.0.2.jar" ]
